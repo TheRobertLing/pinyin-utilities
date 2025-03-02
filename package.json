@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/TheRobertLing/pinyin-utilities/issues"
   },
-  "homepage": "https://github.com/TheRobertLing/pinyin-utilities#readme"
+  "homepage": "https://github.com/TheRobertLing/pinyin-utilities#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
 }
