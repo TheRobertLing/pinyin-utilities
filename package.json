@@ -1,0 +1,28 @@
+{
+  "name": "pinyin-tools",
+  "version": "1.0.0",
+  "description": "utilites for working within pinyin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobertLing/pinyin-utilities.git"
+  },
+  "keywords": [
+    "pinyin",
+    "utils",
+    "utilities",
+    "chinese",
+    "hanzi",
+    "validation",
+    "extract"
+  ],
+  "author": "Robert Ling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRobertLing/pinyin-utilities/issues"
+  },
+  "homepage": "https://github.com/TheRobertLing/pinyin-utilities#readme"
+}
